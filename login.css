@@ -1,0 +1,19 @@
+.Title { text-align: center;}
+
+#paraField { border: black solid 3px ;
+    padding: 20px;}
+
+
+
+    #infoField { background-color: #FFEBD8;
+        border: black solid 1px ;
+    height: 50px ;
+    width: 200px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    text-align: justify;
+}
+
+.bagsField { text-align: justify;
+
+}
